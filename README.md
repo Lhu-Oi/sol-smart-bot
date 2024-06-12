@@ -1,4 +1,4 @@
-# SOLANA SNIPER BOT
+# SOLANA SNIPER BOT 
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/3463d5c1169a76067c8694285a33208cc2ef21a5/readme/logo.png)
 
